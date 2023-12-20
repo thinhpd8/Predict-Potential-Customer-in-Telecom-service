@@ -7,6 +7,8 @@ Dữ liệu test 200k KH đang sử dụng dịch vụ di động của Viettel
 
 - Dựng Model dự báo nhóm KH tiềm năng đang sử dụng 3G có thể chuyển dịch sang sử dụng hạ tầng 4G trong tháng tiếp theo.
 
+Link data https://drive.google.com/file/d/1ooa1oSKoPI5TKt7WB4FNMvgRDMs40ghE/view?usp=sharing
+
   Ý nghĩa các trường:
 cuoc_goc_gprs_220601: doanh thu data KH phát sinh khi sử dụng vượt quá lưu lượng cho phép
 ha_tang_220601: Hạ tầng sử dụng của KH 2G-3G là công nghệ cũ, 4G là công nghệ mới tương lai sẽ 
